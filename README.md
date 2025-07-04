@@ -10,8 +10,6 @@ This project employs machine learning to **predict whether water is potable** us
 
 ---
 
----
-
 ## 🔧 Tech Stack
 
 - **Python**  
