@@ -1,3 +1,14 @@
+# 🌊 Water Quality Prediction
+
+Predict water potability using machine learning based on physicochemical parameters.
+
+---
+
+## 🧩 Project Overview
+
+This project employs machine learning to **predict whether water is potable** using features like pH, hardness, solids, chloramines, sulfate, conductivity, organic carbon, trihalomethanes, and turbidity. Useful for water safety assessments and resource planning.
+
+---
 
 ---
 
